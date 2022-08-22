@@ -6,6 +6,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=05FF05&size=24&center=true&vCenter=true&width=900&height=48&lines=Hello+there...Welcome+to+my+github+repository...)](https://git.io/typing-svg)
 #
 
+### Hello Welcome to my New Github Account
+Check <a href="https://github.com/steven887" target="_blank"> This </a> for my old account
+<br/>
+<br/>
+<br/>
+
 ### About Me :raising_hand_man:
 - 🔭 I’m a self taught programmer & Linux enthusiast
 - 🌱 I’m currently learning everything :grin:
